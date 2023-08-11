@@ -11,9 +11,8 @@ extracted from [Immoscout24](https://www.immobilienscout24.de/), the biggest rea
 ## Project folder 
 The project folder has 4 subfolders
 - **Project Management**: Contains the Project Brief and Data profile document
-- **Data**: Stored both Original(dataframes before cleaning) and Prepared Data(data frames after cleaning and prepared for analysis) 
-- **Scripts**: Contains all the Python codes written for the entire analysis
-- **Analysis**: Contains the Visualizations from which insights were developed
+- **Data**: File too large for required github size, but this file Stored both Original(dataframes before cleaning) and Prepared Data(data frames after cleaning and prepared for analysis) 
+- **Scripts**: Contains all the Python codes written for the entire analysis and visualizations from statistical analysis
 
 ## Analytical Skills Demonstrated
 - **Data Cleaning**: Importing data, Consistency check, and Wrangling
